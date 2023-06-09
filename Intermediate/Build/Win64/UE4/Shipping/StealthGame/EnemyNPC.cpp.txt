@@ -1,0 +1,3 @@
+D:\Skillbox\Gamebox\Stealth Game\StealthGame\Intermediate\Build\Win64\UE4\Shipping\StealthGame\Definitions.StealthGame.h
+D:\Skillbox\Gamebox\Stealth Game\StealthGame\Source\StealthGame\EnemyNPC.h
+D:\Skillbox\Gamebox\Stealth Game\StealthGame\Intermediate\Build\Win64\UE4\Inc\StealthGame\EnemyNPC.generated.h
